@@ -9,6 +9,5 @@ docker build -t social-media .
 docker run -p 8080:8080 social-media
 
 In project exist Swagger for checking of api urls
-For swagger page:
 
-http://localhost:8080/swagger-ui/index.html
+For swagger page: http://localhost:8080/swagger-ui/index.html
