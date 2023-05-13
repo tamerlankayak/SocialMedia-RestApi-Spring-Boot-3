@@ -1,5 +1,5 @@
 package com.example.springbootexamplerestfulapi.helloworld;
-
+//declearing some bean models
 public class HelloWorldBean {
     private String message;
 
