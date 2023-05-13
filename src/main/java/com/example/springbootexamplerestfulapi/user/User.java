@@ -11,7 +11,7 @@ import jakarta.validation.constraints.Size;
 
 import java.time.LocalDate;
 import java.util.List;
-
+//entity models of users
 @Entity(name = "user_details")
 public class User {
 
