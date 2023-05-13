@@ -12,6 +12,7 @@ public class HelloWorldController {
     //dependency injection 
     private MessageSource messageSource;
 
+    //best way  of di
     public HelloWorldController(MessageSource messageSource) {
         this.messageSource = messageSource;
     }
